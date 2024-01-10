@@ -1,41 +1,77 @@
-# Leonardo Paulino Dias
+<!-- Cabeçalho de introdução -->
+<hr>
+<h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h3 align="center">Unity Engine Development | Unreal Engine Development | Game Manager</h3>
 
-## Sobre Mim
-Olá! 👋 Eu sou o Léo, um apaixonado por jogos digitais com 24 anos. Tenho formação em Jogos Digitais e estou constantemente me atualizando para aprender mais e evoluir na minha carreira.
+<p align="center">
+  <em>
+    I'm Leonardo Paulino Dias, a dedicated <b>Unity </b> and <b>Unreal </b> developer with a strong focus on <b>game mechanics </b>. My passion lies in the world of gaming, and I am constantly driven to evolve and learn new technologies. As a game developer, I thrive on crafting engaging experiences and bringing innovative ideas to life. Let's embark on a journey of creativity and technology together!
+  </em> 
+</p>
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo2020d&show_icons=true&theme=radical)
-
-## Tecnologias do dia a dia 
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="C++" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  <img align="center" alt="C++" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<!-- h2 GitHub Profile Stats -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🏆 Profile Stats 🏆</h2></summary>
+  </ul>
 </div>
 
-## Experiência e Habilidades
-- 🕹️ Formado em Jogos Digitais
-- 💻 Proficiente em C# (Unity) e atualmente migrando para C++ (Unreal Engine)
-- 🎮 Experiência sólida com Unity; agora focando em Unreal Engine para me aprimorar ainda mais
-- 🖌️ Conhecimento em Blender para modelagem 3D
-- 🎨 Familiarizado com Photoshop para design gráfico
+<!-- Trophys -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=leonardo2020d&theme=monokai&row=1&column=7&margin-h=1000&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo2020d&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Stats -->
+<p>
+  <div align=center>
+    <a href="https://github.com/leonardo2020d">
+          <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo2020d&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="LeonardoDias :: overall Top Langs " />
+    </a>
+    <a href="https://github.com/leonardo2020d">
+      <img width="27%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardo2020d&theme=monokai&layout=compact&hide_border=false" alt="LeonardoDias :: Top Langs by repo">
+    </a>
+    <a href="https://github.com/leonardo2020d">
+      <img width="27%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonardo2020d&theme=monokai&layout=compact&hide_border=false" alt="LeonardoDias :: Top Langs by commit">
+    </a>
+  </div>
+</p>
+<!-- - - - - - - - - - - - -->
 
-## Objetivos
-Atualmente, estou buscando expandir minha expertise em C++, Unreal Engine e aprimorar minhas habilidades em design 3D.
 
-## Redes Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-dias22/)
-[![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](leonardopaulino463)
+<!-- h2 Technologies -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">👨🏻‍💻 My Technologies 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-## Meus Projetos 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,cs,unreal,blender,unity,ps&perline=14" />
+  </a>
+</p>
+<!-- - - - - - - - - - - - -->
 
 
-## Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leonardopaulino72@gmail.com)
+<!-- Connect with me -->
+<!--h2 Connect With Me -->
+<p align="center">
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: inline-block">🤝 Connect With Me 🤝</h2></summary>
+    </ul>
+  </div>
 
+<!-- Link and Icons-->
+  <div align=center>
+    <a href="leonardodiasprog@outlook.pt" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/f80bb7f8-b30f-461c-8987-e264d922acf8" alt="twitter" height="35" width="35" /></a> 
+    <a href="https://https://www.linkedin.com/in/leonardo-dias22/" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/7bef1c57-5ed7-4a31-87bd-0210cbdca3a2" alt="Linkedin" height="35" width="35" /></a> 
+  </div>
+</p>
+<!-- - - - - - - - - - - - -->
 
-Sinta-se à vontade para me seguir e explorar meus projetos! Estou sempre aberto a colaborações e novas oportunidades. 😊
+<hr>
