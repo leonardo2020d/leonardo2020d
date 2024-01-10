@@ -68,8 +68,8 @@
 
 <!-- Link and Icons-->
   <div align=center>
-    <a href="leonardodiasprog@outlook.pt" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/f80bb7f8-b30f-461c-8987-e264d922acf8" alt="twitter" height="35" width="35" /></a> 
-    <a href="https://https://www.linkedin.com/in/leonardo-dias22/" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/7bef1c57-5ed7-4a31-87bd-0210cbdca3a2" alt="Linkedin" height="35" width="35" /></a> 
+    <a href="mailto:leonardodiasprog@outlook.pt" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/f80bb7f8-b30f-461c-8987-e264d922acf8" alt="twitter" height="35" width="35" /></a> 
+    <a href="www.linkedin.com/in/leonardo-dias22" target="blank"><img align="center" src="https://github.com/JoaoFAbrahan/JoaoFAbrahan/assets/14657360/7bef1c57-5ed7-4a31-87bd-0210cbdca3a2" alt="Linkedin" height="35" width="35" /></a> 
   </div>
 </p>
 <!-- - - - - - - - - - - - -->
