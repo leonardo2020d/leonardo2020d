@@ -1,6 +1,6 @@
-<!-- Cabeçalho de introdução -->
-<hr>
-<h1 align="center"> Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<p align="center">
+  <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" alt="Hello World GIF" width="300px">
+</p>
 <h3 align="center">Unity Engine Development | Unreal Engine Development | Game Manager</h3>
 
 <p align="center">
