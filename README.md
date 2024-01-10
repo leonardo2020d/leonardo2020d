@@ -28,6 +28,11 @@ Atualmente, estou buscando expandir minha expertise em C++, Unreal Engine e apri
 
 ## Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-dias22/)
+[![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](leonardopaulino463)
+
+## Meus Projetos 
+
 
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leonardopaulino72@gmail.com)
